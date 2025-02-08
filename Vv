@@ -1,0 +1,10 @@
+# Netscape HTTP Cookie File
+
+#HttpOnly_.youtube.com	TRUE	/	TRUE	0	GPS	1
+#HttpOnly_.youtube.com	TRUE	/	TRUE	0	YSC	JbqnIbaQM04
+#HttpOnly_.youtube.com	TRUE	/	TRUE	0	__Secure-ROLLOUT_TOKEN	CKPt0bap_-_uQRCBqtDYzbOLAxiBqtDYzbOLAw%3D%3D
+#HttpOnly_.youtube.com	TRUE	/	TRUE	0	VISITOR_INFO1_LIVE	kO5akxQjeF4
+#HttpOnly_.youtube.com	TRUE	/	TRUE	0	VISITOR_PRIVACY_METADATA	CgJJThIEGgAgVQ%3D%3D
+.youtube.com	TRUE	/	TRUE	0	PREF	f6=40000000&tz=Asia.Kolkata&f7=100
+#HttpOnly_.google.com	TRUE	/	TRUE	0	NID	521=YBE5vidqHNXjMhiYw0_TMFw3l9808RDbwCWJp7esTHYVPLGQjfzkr2FCIeTp3TJ0UHDLbuzowuX0t774RpwmEhMTTH9HKQj-drn9uKUQs0e06HcXAaTv5XYcZb7T5PHw9ikeAPR5yFCtDDOTQ_0O9y9vPiIMntLdGVZV2OxyEXdZGcgnlVRg4nTng0uBByJ3dozH
+#HttpOnly_accounts.google.com	FALSE	/	TRUE	0	__Host-GAPS	1:WObiVlMwvnkquoY-nCMGHxrlyXEW9A:ChxpahuhaxeoL_qr
